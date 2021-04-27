@@ -1,0 +1,28 @@
+header{
+	text-align: justify;
+	font-family: Tahoma, sans-serif;
+}
+
+footer{
+	background-color:#F8F9F9;
+	color: black;
+	text-align: center;
+    font-family:Tahoma, sans-serif;
+}
+
+body{
+	background-color:#1B4F72;
+}
+
+h4{
+    font-family:Tahoma, sans-serif;
+    font-size: 1.2em;
+}
+
+p{
+    text-align: center;
+    font-family:Tahoma, sans-serif;
+    font-size: 1.2em;
+}
+
+
